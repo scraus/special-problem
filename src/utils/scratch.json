@@ -1,0 +1,16 @@
+{
+    "kept": false,
+    "isDisposedInternal": true,
+    "shape": [
+        8400
+    ],
+    "dtype": "float32",
+    "size": 8400,
+    "strides": [],
+    "dataId": {
+        "id": 7574
+    },
+    "id": 5698,
+    "rankType": "1",
+    "scopeId": 9257
+}
