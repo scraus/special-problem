@@ -53,7 +53,7 @@ const App = () => {
     <div className="App">
       {loading.loading && <Loader>Loading model... {(loading.progress * 100).toFixed(2)}%</Loader>}
       <div className="header">
-      <img width={"200vh"} height={"200vh"} src="./src/assets/logo_with_name.png" />
+      <img width={"200vh"} height={"200vh"} src="./assets/logo_with_name.png" />
       <h5>Real-time Mask Usage Detector Powered by YOLOv8s</h5>
       </div>
 

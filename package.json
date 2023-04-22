@@ -1,6 +1,6 @@
 {
-  "name": "yolov8-tfjs",
-  "description": "Object detection application right in your browser using YOLOv8 and Tensorflow.js",
+  "name": "special-problem",
+  "description": "Real-time face mask-usage detection powered by YOLOv8s",
   "version": "1.0.0",
   "scripts": {
     "start": "vite",
@@ -19,7 +19,7 @@
     "react",
     "tensorflow.js"
   ],
-  "author": "Wahyu Setianto",
+  "author": "Sheila Mae Craus",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/scraus/special-problem/issues"
