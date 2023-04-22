@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Hyuto/yolov8-tfjs.git"
+    "url": "git+https://github.com/scraus/special-problem"
   },
   "keywords": [
     "object detection",
@@ -22,9 +22,9 @@
   "author": "Wahyu Setianto",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Hyuto/yolov8-tfjs/issues"
+    "url": "https://github.com/scraus/special-problem/issues"
   },
-  "homepage": "https://github.com/Hyuto/yolov8-tfjs#readme",
+  "homepage": "https://scraus.github.io/special-problem",
   "dependencies": {
     "@tensorflow/tfjs": "^4.1.0",
     "normalize.css": "^8.0.1",
